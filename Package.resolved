@@ -1,0 +1,15 @@
+{
+  "originHash" : "f9a8a01d1b8772e61277f42c5602720a0fea5b94ded0710b7800392018933b54",
+  "pins" : [
+    {
+      "identity" : "files",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnsundell/files.git",
+      "state" : {
+        "revision" : "d273b5b7025d386feef79ef6bad7de762e106eaf",
+        "version" : "4.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
